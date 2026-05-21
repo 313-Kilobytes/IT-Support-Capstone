@@ -32,7 +32,7 @@ This document outlines the organizational structure, department requirements, op
 This document provides the recommended hardware baseline for the organization, including workstations, laptops, networking equipment, storage infrastructure, printers, wireless access points, and power protection systems.
 
 ### 🔗 Document Link
-[Hardware Inventory Plan](https://github.com/313-Kilobytes/IT-Support-Capstone/blob/main/week-1/week-1/Hardware Inventory Plan Week1.pdf)
+[Hardware Inventory Plan](https://github.com/313-Kilobytes/IT-Support-Capstone/blob/main/week-1/Hardware%20Inventory%20Plan%20Week1.pdf)
 
 ---
 
