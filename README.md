@@ -161,7 +161,7 @@ To review this project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ubuntu-innovations-it-capstone.git
+   git clone https://github.com/313-Kilobytes/IT-Support-Capstone.git
    ```
 2. Navigate to the relevant week folder for specific deliverables.
 3. Open `Final_Report/` for the consolidated submission document.
