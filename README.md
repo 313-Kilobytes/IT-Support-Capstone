@@ -64,10 +64,10 @@ IT-Support-Capstone-main/
     ├── 313 Kilobytes_Cover Letter.pdf
     ├── Interview_Q&A.pdf
     ├── cv_313_kilobytes.pdf
-    ├── Ubuntu_Innovations_Funding_Pitch_Updated.pptx
     ├── Ubuntu_Innovations_Funding_Pitch_Updated.pdf
     ├── Ubuntu_Innovations_Mock_LinkedIn_Profile.pdf
-    └── resume
+    ├── Final_Project_Report_Consolidated.pdf
+    └── readme.md
 ```
 
 ## Key Deliverables
@@ -118,7 +118,6 @@ The final consolidated report brings together the major deliverables from Weeks 
 | Cover Letter | [313 Kilobytes_Cover Letter.pdf](week-4/313%20Kilobytes_Cover%20Letter.pdf) |
 | Interview Questions and Answers | [Interview_Q&A.pdf](week-4/Interview_Q%26A.pdf) |
 | CV / Resume | [cv_313_kilobytes.pdf](week-4/cv_313_kilobytes.pdf) |
-| Funding Pitch Presentation | [Ubuntu_Innovations_Funding_Pitch_Updated.pptx](week-4/Ubuntu_Innovations_Funding_Pitch_Updated.pptx) |
 | Funding Pitch PDF Preview | [Ubuntu_Innovations_Funding_Pitch_Updated.pdf](week-4/Ubuntu_Innovations_Funding_Pitch_Updated.pdf) |
 | Mock LinkedIn Company Profile PDF | [Ubuntu_Innovations_Mock_LinkedIn_Profile.pdf](week-4/Ubuntu_Innovations_Mock_LinkedIn_Profile.pdf) |
 
